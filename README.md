@@ -6,7 +6,7 @@ Used Framer motion library for the animations in the webite.
 Used Emailjs library for the real time receiving of emails.
 
 
- Live site link : https://app.netlify.com/sites/animated-portfolio-04/overview
+ Live site link : https://animated-portfolio-04.netlify.app/
  
 
 Currently, two official plugins are available:
