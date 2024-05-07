@@ -1,6 +1,13 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Animated site made with the hel[p of react js in frontend.
+Used Framer motion library for the animations in the webite.
+Used Emailjs library for the real time receiving of emails.
+
+
+ Live site link : https://app.netlify.com/sites/animated-portfolio-04/overview
+ 
 
 Currently, two official plugins are available:
 
